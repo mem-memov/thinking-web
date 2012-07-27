@@ -1,0 +1,2 @@
+<?php
+class Model_Reader_TextFormat_Error_Exception extends Model_Reader_TextFormat_Exception {}

@@ -1,0 +1,2 @@
+<?php
+class Model_Reader_SyntaxAnalysis_Predicate_Exception extends Model_Reader_TextFormat_Exception {}
