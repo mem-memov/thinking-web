@@ -12,7 +12,7 @@
     <script type="text/javascript" src="client/script.js"></script>
     
 </head>
-<body>
+<body>777777
     <form method="post">
         <textarea name="request"><?php echo $data['request']; ?></textarea>
         <input type="submit" />
